@@ -1,16 +1,12 @@
-# React + Vite
+# Asistente del Dungeon Master
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Herramienta para Dungeon Masters de D&D 5e hecha con React y Vite: bestiario, generador de botín y bandeja de dados. Datos de la API https://www.dnd5eapi.co/api/
 
-Currently, two official plugins are available:
+## Despliegue web
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+https://jesusdavidgarciameza17-cloud-taller.vercel.app
 
-## React Compiler
+## Aplicación Android
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+El APK se descarga desde la sección Releases de este repositorio.
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
