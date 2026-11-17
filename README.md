@@ -10,3 +10,5 @@ https://jesusdavidgarciameza17-cloud-taller.vercel.app
 
 El APK se descarga desde la sección Releases de este repositorio.
 
+https://github.com/jesusdavidgarciameza17-cloud/taller-final-web/releases
+
